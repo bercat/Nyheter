@@ -1,0 +1,42 @@
+﻿@model Models.Nyhet
+@{
+    ViewBag.Title = "Slett Nyhet";
+}
+<h2>@ViewBag.Title</h2>
+@using (Html.BeginForm("SlettNyhet", "Admin", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary()
+    <div class="form-group">
+        @Html.LabelFor(m => m.Id, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Model.Id
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Tittel, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Model.Tittel
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.DatoPostet, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Model.DatoPostet
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            @Html.HiddenFor(e => e.Id)
+            <input type="submit" class="btn btn-default" value="Slett Nyhet" />
+        </div>
+    </div>
+    if (Model.Id != Guid.Empty)
+    {
+        @Html.ActionLink("Tilbake", "RedigerNyheter")
+    }
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

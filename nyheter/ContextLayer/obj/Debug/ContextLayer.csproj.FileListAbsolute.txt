@@ -1,0 +1,145 @@
+D:\Professional\Projects\Demo\Source Code\Sample\ContextLayer\obj\Debug\ContextLayer.csprojResolveAssemblyReference.cache
+D:\Professional\Projects\Demo\Source Code\Sample\ContextLayer\bin\Debug\ContextLayer.dll.config
+D:\Professional\Projects\Demo\Source Code\Sample\ContextLayer\bin\Debug\ContextLayer.dll
+D:\Professional\Projects\Demo\Source Code\Sample\ContextLayer\bin\Debug\ContextLayer.pdb
+D:\Professional\Projects\Demo\Source Code\Sample\ContextLayer\bin\Debug\EntityFramework.dll
+D:\Professional\Projects\Demo\Source Code\Sample\ContextLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Professional\Projects\Demo\Source Code\Sample\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Professional\Projects\Demo\Source Code\Sample\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Professional\Projects\Demo\Source Code\Sample\ContextLayer\bin\Debug\Models.dll
+D:\Professional\Projects\Demo\Source Code\Sample\ContextLayer\bin\Debug\Models.pdb
+D:\Professional\Projects\Demo\Source Code\Sample\ContextLayer\bin\Debug\EntityFramework.xml
+D:\Professional\Projects\Demo\Source Code\Sample\ContextLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Professional\Projects\Demo\Source Code\Sample\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Professional\Projects\Demo\Source Code\Sample\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Professional\Projects\Demo\Source Code\Sample\ContextLayer\obj\Debug\ContextLayer.dll
+D:\Professional\Projects\Demo\Source Code\Sample\ContextLayer\obj\Debug\ContextLayer.pdb
+D:\Professional\Projects\Demo\Source Code\ContextLayer\bin\Debug\ContextLayer.dll.config
+D:\Professional\Projects\Demo\Source Code\ContextLayer\bin\Debug\ContextLayer.dll
+D:\Professional\Projects\Demo\Source Code\ContextLayer\bin\Debug\ContextLayer.pdb
+D:\Professional\Projects\Demo\Source Code\ContextLayer\bin\Debug\EntityFramework.dll
+D:\Professional\Projects\Demo\Source Code\ContextLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Professional\Projects\Demo\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Professional\Projects\Demo\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Professional\Projects\Demo\Source Code\ContextLayer\bin\Debug\Models.dll
+D:\Professional\Projects\Demo\Source Code\ContextLayer\bin\Debug\Models.pdb
+D:\Professional\Projects\Demo\Source Code\ContextLayer\bin\Debug\EntityFramework.xml
+D:\Professional\Projects\Demo\Source Code\ContextLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Professional\Projects\Demo\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Professional\Projects\Demo\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Professional\Projects\Demo\Source Code\ContextLayer\obj\Debug\ContextLayer.csprojResolveAssemblyReference.cache
+D:\Professional\Projects\Demo\Source Code\ContextLayer\obj\Debug\ContextLayer.dll
+D:\Professional\Projects\Demo\Source Code\ContextLayer\obj\Debug\ContextLayer.pdb
+D:\Professional\Projects\Demo\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.jobseeker.resources
+D:\Professional\Projects\Demo\Source Code\ContextLayer\obj\Debug\ContextLayer.csproj.GenerateResource.Cache
+D:\Professional\Projects\Demo\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.jobseeker1.resources
+D:\Professional\Projects\2014\Professional\Bert\Source Code\ContextLayer\bin\Debug\ContextLayer.dll.config
+D:\Professional\Projects\2014\Professional\Bert\Source Code\ContextLayer\bin\Debug\ContextLayer.dll
+D:\Professional\Projects\2014\Professional\Bert\Source Code\ContextLayer\bin\Debug\ContextLayer.pdb
+D:\Professional\Projects\2014\Professional\Bert\Source Code\ContextLayer\bin\Debug\EntityFramework.dll
+D:\Professional\Projects\2014\Professional\Bert\Source Code\ContextLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Professional\Projects\2014\Professional\Bert\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Professional\Projects\2014\Professional\Bert\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Professional\Projects\2014\Professional\Bert\Source Code\ContextLayer\bin\Debug\Models.dll
+D:\Professional\Projects\2014\Professional\Bert\Source Code\ContextLayer\bin\Debug\Models.pdb
+D:\Professional\Projects\2014\Professional\Bert\Source Code\ContextLayer\bin\Debug\EntityFramework.xml
+D:\Professional\Projects\2014\Professional\Bert\Source Code\ContextLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Professional\Projects\2014\Professional\Bert\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Professional\Projects\2014\Professional\Bert\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Professional\Projects\2014\Professional\Bert\Source Code\ContextLayer\obj\Debug\ContextLayer.csprojResolveAssemblyReference.cache
+D:\Professional\Projects\2014\Professional\Bert\Source Code\ContextLayer\obj\Debug\ContextLayer.dll
+D:\Professional\Projects\2014\Professional\Bert\Source Code\ContextLayer\obj\Debug\ContextLayer.pdb
+D:\Professional\Projects\2014\Professional\Bert\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.location.resources
+D:\Professional\Projects\2014\Professional\Bert\Source Code\ContextLayer\obj\Debug\ContextLayer.csproj.GenerateResource.Cache
+D:\Professional\Projects\2014\Professional\Bert\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.locationid.resources
+D:\Professional\Projects\2014\Professional\Bert\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.DialInPhoneNoId.resources
+D:\Professional\Projects\2014\Professional\Bert\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.ConferencingTool.resources
+D:\Professional\Projects\2014\Professional\Bert-CoachingApp\Source Code\ContextLayer\bin\Debug\ContextLayer.dll.config
+D:\Professional\Projects\2014\Professional\Bert-CoachingApp\Source Code\ContextLayer\bin\Debug\ContextLayer.dll
+D:\Professional\Projects\2014\Professional\Bert-CoachingApp\Source Code\ContextLayer\bin\Debug\ContextLayer.pdb
+D:\Professional\Projects\2014\Professional\Bert-CoachingApp\Source Code\ContextLayer\bin\Debug\EntityFramework.dll
+D:\Professional\Projects\2014\Professional\Bert-CoachingApp\Source Code\ContextLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Professional\Projects\2014\Professional\Bert-CoachingApp\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Professional\Projects\2014\Professional\Bert-CoachingApp\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Professional\Projects\2014\Professional\Bert-CoachingApp\Source Code\ContextLayer\bin\Debug\Models.dll
+D:\Professional\Projects\2014\Professional\Bert-CoachingApp\Source Code\ContextLayer\bin\Debug\Models.pdb
+D:\Professional\Projects\2014\Professional\Bert-CoachingApp\Source Code\ContextLayer\bin\Debug\EntityFramework.xml
+D:\Professional\Projects\2014\Professional\Bert-CoachingApp\Source Code\ContextLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Professional\Projects\2014\Professional\Bert-CoachingApp\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Professional\Projects\2014\Professional\Bert-CoachingApp\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Professional\Projects\2014\Professional\Bert-CoachingApp\Source Code\ContextLayer\obj\Debug\ContextLayer.csprojResolveAssemblyReference.cache
+D:\Professional\Projects\2014\Professional\Bert-CoachingApp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.location.resources
+D:\Professional\Projects\2014\Professional\Bert-CoachingApp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.locationid.resources
+D:\Professional\Projects\2014\Professional\Bert-CoachingApp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.DialInPhoneNoId.resources
+D:\Professional\Projects\2014\Professional\Bert-CoachingApp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.ConferencingTool.resources
+D:\Professional\Projects\2014\Professional\Bert-CoachingApp\Source Code\ContextLayer\obj\Debug\ContextLayer.csproj.GenerateResource.Cache
+D:\Professional\Projects\2014\Professional\Bert-CoachingApp\Source Code\ContextLayer\obj\Debug\ContextLayer.dll
+D:\Professional\Projects\2014\Professional\Bert-CoachingApp\Source Code\ContextLayer\obj\Debug\ContextLayer.pdb
+D:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\ContextLayer.dll.config
+D:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\ContextLayer.dll
+D:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\ContextLayer.pdb
+D:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\EntityFramework.dll
+D:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\Models.dll
+D:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\Models.pdb
+D:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\EntityFramework.xml
+D:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.csprojResolveAssemblyReference.cache
+D:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.dll
+D:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.pdb
+D:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.InitialCreate.resources
+D:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.csproj.GenerateResource.Cache
+D:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.ptpv.resources
+D:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.dpsrno.resources
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\ContextLayer.dll.config
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\ContextLayer.dll
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\ContextLayer.pdb
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\EntityFramework.dll
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\Models.dll
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\Models.pdb
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\EntityFramework.xml
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.csprojResolveAssemblyReference.cache
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.init.resources
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.target.resources
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.usertable.resources
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.removerequiredfield.resources
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.idfield.resources
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.validation.resources
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.somechanges.resources
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.csproj.GenerateResource.Cache
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.dll
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.pdb
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.userplan.resources
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.removeuserplan.resources
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.userplan1.resources
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.userplanuserprofile.resources
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.UserPlanId.resources
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.plantype.resources
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.plantypeuserprofile.resources
+E:\Professional\Projects\2014\Professional\Bert-Mainapp\Source Code\ContextLayer\obj\Debug\ContextLayer.Migrations.plantypefinal.resources
+E:\Professional\Projects\2015\Cat Astrofe\Source Code\ContextLayer\bin\Debug\ContextLayer.dll.config
+E:\Professional\Projects\2015\Cat Astrofe\Source Code\ContextLayer\bin\Debug\ContextLayer.dll
+E:\Professional\Projects\2015\Cat Astrofe\Source Code\ContextLayer\bin\Debug\ContextLayer.pdb
+E:\Professional\Projects\2015\Cat Astrofe\Source Code\ContextLayer\bin\Debug\EntityFramework.dll
+E:\Professional\Projects\2015\Cat Astrofe\Source Code\ContextLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Professional\Projects\2015\Cat Astrofe\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Professional\Projects\2015\Cat Astrofe\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Professional\Projects\2015\Cat Astrofe\Source Code\ContextLayer\bin\Debug\Models.dll
+E:\Professional\Projects\2015\Cat Astrofe\Source Code\ContextLayer\bin\Debug\Models.pdb
+E:\Professional\Projects\2015\Cat Astrofe\Source Code\ContextLayer\bin\Debug\EntityFramework.xml
+E:\Professional\Projects\2015\Cat Astrofe\Source Code\ContextLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Professional\Projects\2015\Cat Astrofe\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Professional\Projects\2015\Cat Astrofe\Source Code\ContextLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Professional\Projects\2015\Cat Astrofe\Source Code\ContextLayer\obj\Debug\ContextLayer.csprojResolveAssemblyReference.cache
+E:\Professional\Projects\2015\Cat Astrofe\Source Code\ContextLayer\obj\Debug\ContextLayer.dll
+E:\Professional\Projects\2015\Cat Astrofe\Source Code\ContextLayer\obj\Debug\ContextLayer.pdb

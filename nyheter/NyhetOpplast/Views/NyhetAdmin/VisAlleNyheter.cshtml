@@ -1,0 +1,30 @@
+﻿@model List<Models.Nyhet>
+@{
+    ViewBag.Title = "Alle nyheter";
+}
+<h2>@ViewBag.Title.</h2>
+
+@if (Model.Count > 0)
+{
+    <div class="row">
+        <div class="col-md-12">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4">
+                    <h3>@item.Tittel</h3><br />
+                    @{
+                var base64 = Convert.ToBase64String(item.BildeSrc);
+                var imgSrc = String.Format("data:image/gif;base64,{0}", base64);
+                    }
+                    <a href="/admin/VisEnNyhet?id=@item.Id">
+                        <img src="@imgSrc" alt="image" style="width:100%" />
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+}
+else
+{
+    <h4>Ingen nyheter opprettet enda</h4>
+}
